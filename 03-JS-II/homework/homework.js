@@ -76,7 +76,7 @@ function colors(color) {
       return 'This is green';
     case 'orange':
       return 'This is orange'
-    default: 
+    default:  
     return 'Color not found';
   } 
   } 
